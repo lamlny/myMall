@@ -1,6 +1,6 @@
 ## docker和git的使用
 
-**docker：**创建一个文件用"touch"，修改文件用"vi"，其中“i”进入插入操作，"Esc"退出插入操作，":w"保存，":q"退出，"pwd"显示当前目录，".."返回上级目录。
+**docker**：创建一个文件用"touch"，修改文件用"vi"，其中“i”进入插入操作，"Esc"退出插入操作，":w"保存，":q"退出，"pwd"显示当前目录，".."返回上级目录。
 
 ```java
 1. docker run -p 3306:3306 --name mysql \
@@ -20,7 +20,7 @@
 
 
 
-**git：**首先下载Git客户端，在桌面"Git Bash Here"，
+**git**：首先下载Git客户端，在桌面"Git Bash Here"，
 
 ```java
 //配置用户名和邮箱
